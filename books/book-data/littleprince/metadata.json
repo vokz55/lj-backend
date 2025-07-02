@@ -1,0 +1,20 @@
+{
+  "title": "The Little Prince",
+  "author": "Antoine de Saint-Exupéry",
+  "cover": null,
+  "totalPages": 107,
+  "totalChapters": 2,
+  "uniqueWords": 2038,
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "startPage": 0,
+      "endPage": 0
+    },
+    {
+      "title": "Chapter 2",
+      "startPage": 1,
+      "endPage": 106
+    }
+  ]
+}

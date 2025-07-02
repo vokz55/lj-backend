@@ -1,0 +1,85 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "cover": null,
+  "totalPages": 190,
+  "totalChapters": 15,
+  "uniqueWords": 2678,
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "startPage": 0,
+      "endPage": -1
+    },
+    {
+      "title": "Chapter 2",
+      "startPage": 0,
+      "endPage": 0
+    },
+    {
+      "title": "Chapter 3",
+      "startPage": 1,
+      "endPage": 14
+    },
+    {
+      "title": "Chapter 4",
+      "startPage": 15,
+      "endPage": 27
+    },
+    {
+      "title": "Chapter 5",
+      "startPage": 28,
+      "endPage": 39
+    },
+    {
+      "title": "Chapter 6",
+      "startPage": 40,
+      "endPage": 56
+    },
+    {
+      "title": "Chapter 7",
+      "startPage": 57,
+      "endPage": 71
+    },
+    {
+      "title": "Chapter 8",
+      "startPage": 72,
+      "endPage": 89
+    },
+    {
+      "title": "Chapter 9",
+      "startPage": 90,
+      "endPage": 107
+    },
+    {
+      "title": "Chapter 10",
+      "startPage": 108,
+      "endPage": 125
+    },
+    {
+      "title": "Chapter 11",
+      "startPage": 126,
+      "endPage": 144
+    },
+    {
+      "title": "Chapter 12",
+      "startPage": 145,
+      "endPage": 159
+    },
+    {
+      "title": "Chapter 13",
+      "startPage": 160,
+      "endPage": 173
+    },
+    {
+      "title": "Chapter 14",
+      "startPage": 174,
+      "endPage": 188
+    },
+    {
+      "title": "Chapter 15",
+      "startPage": 189,
+      "endPage": 189
+    }
+  ]
+}

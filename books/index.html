@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EPUB Viewer — Justified</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      background: #fdfdfd;
+      color: #222;
+    }
+
+    h1 {
+      font-size: 1.6em;
+      margin-bottom: 1.2em;
+    }
+
+    .heading {
+      font-size: 1.2em;
+      font-weight: bold;
+      margin: 2em 0 1em;
+    }
+
+    .paragraph {
+      text-align: justify;
+      line-height: 1.6;
+      margin-bottom: 1.2em;
+    }
+
+    .image {
+      text-align: center;
+      margin: 2em 0;
+    }
+
+    .image img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">Загрузка...</div>
+
+  <script>
+    fetch('../page_002.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('content');
+        container.innerHTML = '';
+
+        data.content.forEach(item => {
+          if (item.type === 'image') {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'image';
+
+            const img = document.createElement('img');
+            img.src = item.src;
+            img.alt = 'epub image';
+
+            wrapper.appendChild(img);
+            container.appendChild(wrapper);
+          } else {
+            const el = document.createElement('div');
+            el.className = item.type;
+
+            const text = item.words.join('');
+            el.textContent = text;
+
+            container.appendChild(el);
+          }
+        });
+      })
+      .catch(err => {
+        document.getElementById('content').innerHTML = '<p style="color:red;">Ошибка загрузки structured_output.json</p>';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>

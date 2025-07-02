@@ -1,0 +1,175 @@
+{
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "cover": null,
+  "totalPages": 782,
+  "totalChapters": 33,
+  "uniqueWords": 9534,
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "startPage": 0,
+      "endPage": -1
+    },
+    {
+      "title": "Chapter 2",
+      "startPage": 0,
+      "endPage": 0
+    },
+    {
+      "title": "Chapter 3",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "title": "Chapter 4",
+      "startPage": 2,
+      "endPage": 2
+    },
+    {
+      "title": "Chapter 5",
+      "startPage": 3,
+      "endPage": 27
+    },
+    {
+      "title": "Chapter 6",
+      "startPage": 28,
+      "endPage": 55
+    },
+    {
+      "title": "Chapter 7",
+      "startPage": 56,
+      "endPage": 78
+    },
+    {
+      "title": "Chapter 8",
+      "startPage": 79,
+      "endPage": 109
+    },
+    {
+      "title": "Chapter 9",
+      "startPage": 110,
+      "endPage": 121
+    },
+    {
+      "title": "Chapter 10",
+      "startPage": 122,
+      "endPage": 147
+    },
+    {
+      "title": "Chapter 11",
+      "startPage": 148,
+      "endPage": 171
+    },
+    {
+      "title": "Chapter 12",
+      "startPage": 172,
+      "endPage": 197
+    },
+    {
+      "title": "Chapter 13",
+      "startPage": 198,
+      "endPage": 223
+    },
+    {
+      "title": "Chapter 14",
+      "startPage": 224,
+      "endPage": 255
+    },
+    {
+      "title": "Chapter 15",
+      "startPage": 256,
+      "endPage": 282
+    },
+    {
+      "title": "Chapter 16",
+      "startPage": 283,
+      "endPage": 318
+    },
+    {
+      "title": "Chapter 17",
+      "startPage": 319,
+      "endPage": 355
+    },
+    {
+      "title": "Chapter 18",
+      "startPage": 356,
+      "endPage": 390
+    },
+    {
+      "title": "Chapter 19",
+      "startPage": 391,
+      "endPage": 418
+    },
+    {
+      "title": "Chapter 20",
+      "startPage": 419,
+      "endPage": 443
+    },
+    {
+      "title": "Chapter 21",
+      "startPage": 444,
+      "endPage": 470
+    },
+    {
+      "title": "Chapter 22",
+      "startPage": 471,
+      "endPage": 502
+    },
+    {
+      "title": "Chapter 23",
+      "startPage": 503,
+      "endPage": 526
+    },
+    {
+      "title": "Chapter 24",
+      "startPage": 527,
+      "endPage": 559
+    },
+    {
+      "title": "Chapter 25",
+      "startPage": 560,
+      "endPage": 587
+    },
+    {
+      "title": "Chapter 26",
+      "startPage": 588,
+      "endPage": 612
+    },
+    {
+      "title": "Chapter 27",
+      "startPage": 613,
+      "endPage": 643
+    },
+    {
+      "title": "Chapter 28",
+      "startPage": 644,
+      "endPage": 671
+    },
+    {
+      "title": "Chapter 29",
+      "startPage": 672,
+      "endPage": 702
+    },
+    {
+      "title": "Chapter 30",
+      "startPage": 703,
+      "endPage": 741
+    },
+    {
+      "title": "Chapter 31",
+      "startPage": 742,
+      "endPage": 775
+    },
+    {
+      "title": "Chapter 32",
+      "startPage": 776,
+      "endPage": 780
+    },
+    {
+      "title": "Chapter 33",
+      "startPage": 781,
+      "endPage": 781
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Moby Dick; Or, The Whale",
+  "author": "Herman Melville",
+  "cover": null,
+  "totalPages": 1089,
+  "totalChapters": 12,
+  "uniqueWords": 17550,
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "startPage": 0,
+      "endPage": -1
+    },
+    {
+      "title": "Chapter 2",
+      "startPage": 0,
+      "endPage": 102
+    },
+    {
+      "title": "Chapter 3",
+      "startPage": 103,
+      "endPage": 216
+    },
+    {
+      "title": "Chapter 4",
+      "startPage": 217,
+      "endPage": 322
+    },
+    {
+      "title": "Chapter 5",
+      "startPage": 323,
+      "endPage": 427
+    },
+    {
+      "title": "Chapter 6",
+      "startPage": 428,
+      "endPage": 548
+    },
+    {
+      "title": "Chapter 7",
+      "startPage": 549,
+      "endPage": 661
+    },
+    {
+      "title": "Chapter 8",
+      "startPage": 662,
+      "endPage": 783
+    },
+    {
+      "title": "Chapter 9",
+      "startPage": 784,
+      "endPage": 895
+    },
+    {
+      "title": "Chapter 10",
+      "startPage": 896,
+      "endPage": 1019
+    },
+    {
+      "title": "Chapter 11",
+      "startPage": 1020,
+      "endPage": 1087
+    },
+    {
+      "title": "Chapter 12",
+      "startPage": 1088,
+      "endPage": 1088
+    }
+  ]
+}
